@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bioc="http://bpmn.io/schema/bpmn/biocolor/1.0" id="sid-38422fae-e03e-43a3-bef4-bd33b32041b2" targetNamespace="http://bpmn.io/bpmn" exporter="Camunda Modeler" exporterVersion="2.2.1">
+  <process id="Process_1" isExecutable="false">
+    <startEvent id="StartEvent_0o0o0fk">
+      <outgoing>SequenceFlow_12ozpfk</outgoing>
+    </startEvent>
+    <endEvent id="EndEvent_0x414qm">
+      <incoming>SequenceFlow_12ozpfk</incoming>
+      <property id="Property_1p3qb8m" name="__targetRef_placeholder" />
+      <dataInputAssociation id="DataInputAssociation_0nbs5c4">
+        <sourceRef>DataStoreReference_06jw1fk</sourceRef>
+        <targetRef>Property_1p3qb8m</targetRef>
+      </dataInputAssociation>
+    </endEvent>
+    <sequenceFlow id="SequenceFlow_12ozpfk" name="AWESOME" sourceRef="StartEvent_0o0o0fk" targetRef="EndEvent_0x414qm" />
+    <dataStoreReference id="DataStoreReference_06jw1fk" />
+  </process>
+  <bpmndi:BPMNDiagram id="BpmnDiagram_1">
+    <bpmndi:BPMNPlane id="BpmnPlane_1" bpmnElement="Process_1">
+      <bpmndi:BPMNShape id="StartEvent_0o0o0fk_di" bpmnElement="StartEvent_0o0o0fk" bioc:stroke="#FB8C00" bioc:fill="#FFE0B2">
+        <omgdc:Bounds x="295" y="159" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="EndEvent_0x414qm_di" bpmnElement="EndEvent_0x414qm" bioc:stroke="#43A047" bioc:fill="#C8E6C9">
+        <omgdc:Bounds x="427" y="159" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="SequenceFlow_12ozpfk_di" bpmnElement="SequenceFlow_12ozpfk" bioc:stroke="#43A047" bioc:fill="#C8E6C9">
+        <omgdi:waypoint x="313" y="195" />
+        <omgdi:waypoint x="313" y="232" />
+        <omgdi:waypoint x="445" y="232" />
+        <omgdi:waypoint x="445" y="195" />
+        <bpmndi:BPMNLabel>
+          <omgdc:Bounds x="351" y="214" width="56" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNShape id="DataStoreReference_06jw1fk_di" bpmnElement="DataStoreReference_06jw1fk" bioc:stroke="#8E24AA" bioc:fill="#E1BEE7">
+        <omgdc:Bounds x="356" y="95" width="50" height="50" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="DataInputAssociation_0nbs5c4_di" bpmnElement="DataInputAssociation_0nbs5c4">
+        <omgdi:waypoint x="406" y="142" />
+        <omgdi:waypoint x="432" y="165" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</definitions>

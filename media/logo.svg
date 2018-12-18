@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- created with bpmn-js / http://bpmn.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180"
+   height="149"
+   viewBox="289 89 180 149"
+   version="1.1"
+   id="svg4748"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata4752">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2552"
+     inkscape:window-height="1379"
+     id="namedview4750"
+     showgrid="false"
+     inkscape:zoom="3.8288591"
+     inkscape:cx="145.39751"
+     inkscape:cy="42.144625"
+     inkscape:window-x="0"
+     inkscape:window-y="57"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4748" />
+  <defs
+     id="defs4672">
+    <marker
+       id="association-end-white-black-5c9e1xe48ph6hjkcfzs08oj90"
+       viewBox="0 0 20 20"
+       refX="12"
+       refY="10"
+       markerWidth="10"
+       markerHeight="10"
+       orient="auto">
+      <path
+         d="M 1 5 L 11 10 L 1 15"
+         style="fill: none; stroke-width: 1.5px; stroke-linecap: round; stroke-dasharray: 10000, 1; stroke: black;"
+         id="path4663" />
+    </marker>
+    <marker
+       id="sequenceflow-end-#C8E6C9-#43A047-5c9e1xe48ph6hjkcfzs08oj90"
+       viewBox="0 0 20 20"
+       refX="11"
+       refY="10"
+       markerWidth="10"
+       markerHeight="10"
+       orient="auto">
+      <path
+         d="M 1 5 L 11 10 L 1 15 Z"
+         style="fill: rgb(67, 160, 71); stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000, 1; stroke: rgb(67, 160, 71);"
+         id="path4669" />
+    </marker>
+  </defs>
+  <g
+     class="djs-visual"
+     id="g4676">
+    <path
+       d="m 313,195 v 37 h 132 v -37"
+       style="fill:none;stroke:#43a047;stroke-width:2px;stroke-linejoin:round;marker-end:url(#sequenceflow-end-#C8E6C9-#43A047-5c9e1xe48ph6hjkcfzs08oj90)"
+       id="path4674"
+       inkscape:connector-curvature="0" />
+  </g>
+  <polyline
+     points="313,195 313,232 445,232 445,195 "
+     class="djs-hit"
+     style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+     id="polyline4678" />
+  <rect
+     x="307"
+     y="189"
+     width="144"
+     height="49"
+     class="djs-outline"
+     style="fill:none"
+     id="rect4680" />
+  <g
+     class="djs-visual"
+     id="g4688"
+     transform="translate(295,159)">
+    <circle
+       cx="18"
+       cy="18"
+       r="18"
+       style="fill:#ffe0b2;fill-opacity:0.95;stroke:#fb8c00;stroke-width:2px"
+       id="circle4686" />
+  </g>
+  <g
+     class="djs-visual"
+     id="g4712"
+     transform="translate(356,95)">
+    <path
+       d="m 0,6.65 v 36.885246 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 V 6.65 C 47.540984,-1.5467213 1.6393443,-1.5467213 0,6.65 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,12.387705 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0 M 0,18.12541 c 1.6393443,8.196721 47.540984,8.196721 49.180328,0"
+       style="fill:#e1bee7;fill-opacity:0.95;stroke:#8e24aa;stroke-width:2px"
+       id="path4710"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     class="djs-group"
+     id="g4732"
+     transform="matrix(0.94411055,0,0,0.9604261,22.355782,5.3820503)">
+    <g
+       class="djs-element djs-connection"
+       data-element-id="DataInputAssociation_0nbs5c4"
+       style="display:block"
+       id="g4730">
+      <g
+         class="djs-visual"
+         id="g4724">
+        <polyline
+           points="406,142 432,165 "
+           style="fill:none;stroke:#000000;stroke-width:2px;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.5, 5;marker-end:url(#association-end-white-black-5c9e1xe48ph6hjkcfzs08oj90)"
+           id="polyline4722" />
+      </g>
+      <polyline
+         points="406,142 432,165 "
+         class="djs-hit"
+         style="fill:none;stroke:#ffffff;stroke-width:15px;stroke-opacity:0"
+         id="polyline4726" />
+      <rect
+         x="400"
+         y="136"
+         width="38"
+         height="35"
+         class="djs-outline"
+         style="fill:none"
+         id="rect4728" />
+    </g>
+  </g>
+  <g
+     class="djs-visual"
+     id="g4700"
+     transform="translate(427,159)">
+    <circle
+       cx="18"
+       cy="18"
+       r="18"
+       style="fill:#c8e6c9;fill-opacity:0.95;stroke:#43a047;stroke-width:4px"
+       id="circle4698" />
+  </g>
+  <text
+     y="216.76472"
+     x="346.29886"
+     id="text4736"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1"
+     class="djs-label"
+     lineHeight="1.2">
+    <tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1"
+       id="tspan4734"
+       y="226.66472"
+       x="346.29886">AWESOME</tspan>
+  </text>
+</svg>
