@@ -58,6 +58,7 @@
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) - Add, edit, and persist comments on BPMN diagrams
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) - Model diagrams without the mouse
+* [bpmn-js-copy-paste-example](https://github.com/nikku/bpmn-js-copy-paste-example) - An example illustrating how to copy and paste BPMN diagram elements across browser tabs
 
 #### Misc
 
