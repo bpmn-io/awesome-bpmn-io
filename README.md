@@ -20,6 +20,7 @@
 
 * [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) - Large list of bpmn-js usage examples
 * [bpmn-js walkthrough](https://bpmn.io/toolkit/bpmn-js/walkthrough/) - An overview over bpmn-js, usage scenarios and its underlying architecture
+* [bpmn.io community forum](https://forum.bpmn.io/) - A friendly place to ask about all things related to our project
 
 
 ## Libraries
