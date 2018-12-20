@@ -79,6 +79,11 @@
 * [Camunda Modeler](https://github.com/camunda/camunda-modeler) - An integrated modeling solution for BPMN, DMN and CMMN based on bpmn.io
 
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 ---
 
 Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/master/README.md).
