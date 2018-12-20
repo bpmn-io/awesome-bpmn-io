@@ -65,6 +65,7 @@
 * [@bpmn-io/add-exporter](https://github.com/bpmn-io/add-exporter) - A helper to inject `exporter` meta-data into saved BPMN, CMMN and DMN diagrams
 * [bpmn-js-differ](https://github.com/bpmn-io/bpmn-js-differ) - A semantic diff tool
 * [bpmn-to-image](https://github.com/bpmn-io/bpmn-to-image) - Transform BPMN diagrams to images from the command line
+* [bpmnlint](https://github.com/bpmn-io/bpmnlint) - An extensible and configurable BPMN 2.0 diagram validator
 
 
 ## Integrations
