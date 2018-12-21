@@ -32,7 +32,7 @@
 
 * [bpmn-js](https://github.com/bpmn-io/bpmn-js) - BPMN 2.0 process and collaboration diagram renderer/editor
 * [cmmn-js](https://github.com/bpmn-io/cmmn-js) - CMMN 1.2 case diagram renderer/editor
-* [bpmn-js](https://github.com/bpmn-io/dmn-js) - DMN 1.2 DRD, decision table and literal expression renderer/editor
+* [dmn-js](https://github.com/bpmn-io/dmn-js) - DMN 1.2 DRD, decision table and literal expression renderer/editor
 
 #### Community Maintained
 
