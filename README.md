@@ -80,6 +80,7 @@
 
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
 * [Camunda Modeler](https://github.com/camunda/camunda-modeler) - An integrated modeling solution for BPMN, DMN and CMMN based on bpmn.io
+* [Zeebe Modeler](https://github.com/zeebe-io/zeebe-modeler) - The visual workflow editor for Zeebe based on bpmn.io
 
 
 ## Contribute
