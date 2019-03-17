@@ -11,7 +11,7 @@
   <br><br>
 </div>
 
-## Contents
+## Contentscontinuations
 
 * [Learning Resources](#learning-resources)
 * [Libraries](#libraries)
@@ -57,11 +57,11 @@
 * [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - Simulate tokens running through your process
 * [bpmn-js-in-color](https://github.com/bpmn-io/bpmn-js-in-color) - A extension that makes bpmn-js implement the [BPMN in color proposal](https://github.com/bpmn-miwg/bpmn-in-color)
 * [bpmn-js-sketchy](https://github.com/bpmn-io/bpmn-js-sketchy) - A sketchy renderer for BPMN diagrams
-* [bpmn-js-transaction-boundaries](https://github.com/bpmn-io/bpmn-js-transaction-boundaries) - Visualize asynchronous continuations in BPMN diagrams
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) - Add, edit, and persist comments on BPMN diagrams
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) - Model diagrams without the mouse
 * [bpmn-js-copy-paste-example](https://github.com/nikku/bpmn-js-copy-paste-example) - An example illustrating how to copy and paste BPMN diagram elements across browser tabs
+* [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
 
 #### Misc
 
