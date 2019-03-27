@@ -11,7 +11,7 @@
   <br><br>
 </div>
 
-## Contentscontinuations
+## Contents
 
 * [Learning Resources](#learning-resources)
 * [Libraries](#libraries)
