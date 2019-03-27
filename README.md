@@ -75,6 +75,8 @@
 ## Integrations
 
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) - An integration of bpmn-js with [Angular](https://angular.io/)
+* [react-bpmn](https://github.com/bpmn-io/react-bpmn) - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
+* [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
 
 
 ## Apps
