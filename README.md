@@ -6,7 +6,7 @@
   <br><br>
   A curated list of <a href="https://bpmn.io">bpmn.io</a> related projects and resources. Created in the spirit of <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   <br><br>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.staticaly.com/gh/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
 
   <br><br>
 </div>
