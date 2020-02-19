@@ -22,7 +22,9 @@
 ## Learning Resources
 
 * [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) - Large list of bpmn-js usage examples
+* [dmn-js-examples](https://github.com/bpmn-io/dmn-js-examples) - Set of dmn-js usage examples
 * [bpmn-js walkthrough](https://bpmn.io/toolkit/bpmn-js/walkthrough/) - An overview over bpmn-js, usage scenarios and its underlying architecture
+* [bpmn.io demo](https://demo.bpmn.io/) - A getting started playground into the bpmn-io toolkit
 * [bpmn.io community forum](https://forum.bpmn.io/) - A friendly place to ask about all things related to our project
 
 
@@ -41,6 +43,7 @@
 #### Infrastructure / Foundation
 
 * [bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) - Read, modify and write BPMN 2.0 diagrams from JavaScript
+* [dmn-moddle](https://github.com/bpmn-io/dmn-moddle) - Read, modify and write DMN 1.3 diagrams from JavaScript
 * [diagram-js](https://github.com/bpmn-io/diagram-js) - A toolbox for displaying and modifying diagrams on the web
 
 
@@ -50,6 +53,7 @@
 
 * [diagram-js-origin](https://github.com/bpmn-io/diagram-js-origin) - Render a canvas origin cross
 * [diagram-js-minimap](https://github.com/bpmn-io/diagram-js-minimap) - Render a minimap of your diagram
+* [diagram-js-direct-editing](https://github.com/bpmn-io/diagram-js-direct-editing) - A direct editing box for diagram-js
 
 #### [bpmn-js](https://github.com/bpmn-io/bpmn-js)
 
@@ -62,6 +66,10 @@
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) - Model diagrams without the mouse
 * [bpmn-js-copy-paste-example](https://github.com/nikku/bpmn-js-copy-paste-example) - An example illustrating how to copy and paste BPMN diagram elements across browser tabs
 * [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
+* [bpmn-js-honkify](https://github.com/pinussilvestrus/bpmn-js-honkify) - Integrates honkify inspired duck sounds into bpmn-js
+* [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable 
+* [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) - An extension which disables modeling collapsed subprocess via replace menu
+* [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) - An extension that re-enables to collapse sub process via replace menu
 
 #### Misc
 
@@ -69,7 +77,12 @@
 * [@bpmn-io/align-to-origin](https://github.com/bpmn-io/align-to-origin) - Aligns your diagrams to the coordinate origin, manually triggered or on diagram save
 * [bpmn-js-differ](https://github.com/bpmn-io/bpmn-js-differ) - A semantic diff tool for BPMN diagrams
 * [bpmn-to-image](https://github.com/bpmn-io/bpmn-to-image) - Transform BPMN diagrams to images from the command line
+* [bpmn-js-i18n](https://github.com/bpmn-io/bpmn-js-i18n) - Internationalization resources for bpmn-js
+* [bpmn-font](https://github.com/bpmn-io/bpmn-font) - A BPMN 2.0 icon font
 * [bpmnlint](https://github.com/bpmn-io/bpmnlint) - An extensible and configurable BPMN 2.0 diagram validator
+* [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Commont lint rules for bpmn.io projects
+* [dmnlint](https://github.com/bpmn-io/dmnlint) - Validate DMN diagrams based on configurable lint rules
+* [dmn-migrate](https://github.com/bpmn-io/dmn-migrate) - Migrate your DMN diagrams to the latest DMN version
 
 
 ## Integrations
@@ -84,6 +97,7 @@
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
 * [Camunda Modeler](https://github.com/camunda/camunda-modeler) - An integrated modeling solution for BPMN, DMN and CMMN based on bpmn.io
 * [Zeebe Modeler](https://github.com/zeebe-io/zeebe-modeler) - The visual workflow editor for Zeebe based on bpmn.io
+* [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 
 
 ## Contribute
