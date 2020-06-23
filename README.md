@@ -102,7 +102,7 @@
 * [Zeebe Modeler](https://github.com/zeebe-io/zeebe-modeler) - The visual workflow editor for Zeebe based on bpmn.io
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) - Create Post-it boards on a canvas editor
-
+* [Duckflow](https://duckflow.app) - Lightweight BPMN process designer application, based on bpmn.io
 
 ## Talks
 
