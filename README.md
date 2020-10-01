@@ -82,7 +82,7 @@
 * [bpmn-js-i18n](https://github.com/bpmn-io/bpmn-js-i18n) - Internationalization resources for bpmn-js
 * [bpmn-font](https://github.com/bpmn-io/bpmn-font) - A BPMN 2.0 icon font
 * [bpmnlint](https://github.com/bpmn-io/bpmnlint) - An extensible and configurable BPMN 2.0 diagram validator
-* [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Commont lint rules for bpmn.io projects
+* [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Common lint rules for bpmn.io projects
 * [dmnlint](https://github.com/bpmn-io/dmnlint) - Validate DMN diagrams based on configurable lint rules
 * [dmn-migrate](https://github.com/bpmn-io/dmn-migrate) - Migrate your DMN diagrams to the latest DMN version
 
