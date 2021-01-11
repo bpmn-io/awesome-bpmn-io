@@ -103,6 +103,7 @@
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) - Create Post-it boards on a canvas editor
 * [Duckflow](https://duckflow.app) - Lightweight BPMN process designer application, based on bpmn.io
+* [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
 
 ## Talks
 
