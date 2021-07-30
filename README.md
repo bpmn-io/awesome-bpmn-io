@@ -92,7 +92,7 @@
 * [react-bpmn](https://github.com/bpmn-io/react-bpmn) - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
 * [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) - An integration of bpmn-js with [Angular](https://angular.io/)
-* [bpmn-js-example-svelte](https://github.com/bpmn-io/bpmn-js-example-svelte) - An integration of bpmn-js with a [Svelte](https://svelte.dev) application.
+* [svelte-bpmn](https://github.com/bpmn-io/svelte-bpmn) - Render BPMN 2.0 diagrams in a [Svelte](https://svelte.dev) application
 
 
 ## Apps
