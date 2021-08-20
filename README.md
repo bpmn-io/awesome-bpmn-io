@@ -72,6 +72,7 @@
 * [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable 
 * [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) - An extension which disables modeling collapsed subprocess via replace menu
 * [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) - An extension that re-enables to collapse sub process via replace menu
+* [bpmn-js-color-picker](https://github.com/bpmn-io/bpmn-js-color-picker) - Color your BPMN elements via the context pad
 
 #### Misc
 
