@@ -94,6 +94,8 @@
 * [vue-bpmn](https://github.com/bpmn-io/vue-bpmn) - Render BPMN 2.0 diagrams in a [Vue.js](https://vuejs.org) application
 * [bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular) - An integration of bpmn-js with [Angular](https://angular.io/)
 * [svelte-bpmn](https://github.com/bpmn-io/svelte-bpmn) - Render BPMN 2.0 diagrams in a [Svelte](https://svelte.dev) application
+* [jupyterlab-bpmn](https://pypi.org/project/jupyterlab-bpmn/) - Render BPMN 2.0 diagrams in [JupyterLab](https://jupyter.org/)
+* [jupyterlab-dmn](https://pypi.org/project/jupyterlab-dmn/) - Render DMN diagrams in [JupyterLab](https://jupyter.org/)
 
 
 ## Apps
