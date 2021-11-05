@@ -61,7 +61,6 @@
 
 * [bpmn-js-signavio-compat](https://github.com/bpmn-io/bpmn-js-signavio-compat) - Expand and collapse sub-processes exported by Signavio
 * [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - Simulate tokens running through your process
-* [bpmn-js-in-color](https://github.com/bpmn-io/bpmn-js-in-color) - A extension that makes bpmn-js implement the [BPMN in color proposal](https://github.com/bpmn-miwg/bpmn-in-color)
 * [bpmn-js-sketchy](https://github.com/bpmn-io/bpmn-js-sketchy) - A sketchy renderer for BPMN diagrams
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) - Add, edit, and persist comments on BPMN diagrams
