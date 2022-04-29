@@ -25,6 +25,7 @@
 
 * [bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples) - Large list of bpmn-js usage examples
 * [dmn-js-examples](https://github.com/bpmn-io/dmn-js-examples) - Set of dmn-js usage examples
+* [form-js-examples](https://github.com/bpmn-io/form-js-examples) - A collection of form-js examples
 * [bpmn-js walkthrough](https://bpmn.io/toolkit/bpmn-js/walkthrough/) - An overview over bpmn-js, usage scenarios and its underlying architecture
 * [bpmn.io demo](https://demo.bpmn.io/) - A getting started playground into the bpmn-io toolkit
 * [bpmn.io community forum](https://forum.bpmn.io/) - A friendly place to ask about all things related to our project
@@ -37,6 +38,7 @@
 * [bpmn-js](https://github.com/bpmn-io/bpmn-js) - BPMN 2.0 process and collaboration diagram renderer/editor
 * [cmmn-js](https://github.com/bpmn-io/cmmn-js) - CMMN 1.2 case diagram renderer/editor
 * [dmn-js](https://github.com/bpmn-io/dmn-js) - DMN DRD, decision table and literal expression renderer/editor
+* [form-js](https://github.com/bpmn-io/form-js) - View and visually edit JSON-based forms
 
 #### Community Maintained
 
@@ -47,7 +49,6 @@
 * [bpmn-moddle](https://github.com/bpmn-io/bpmn-moddle) - Read, modify and write BPMN 2.0 diagrams from JavaScript
 * [dmn-moddle](https://github.com/bpmn-io/dmn-moddle) - Read, modify and write DMN 1.3 diagrams from JavaScript
 * [diagram-js](https://github.com/bpmn-io/diagram-js) - A toolbox for displaying and modifying diagrams on the web
-
 
 ## Extensions
 
