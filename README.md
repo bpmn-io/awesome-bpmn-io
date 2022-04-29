@@ -112,6 +112,7 @@
 
 * [Roll your own BPMN editor](https://github.com/nikku/roll-your-own-bpmn-editor) - An introduction to bpmn-js and its friends
 * [Making of token simulation](https://github.com/nikku/2021-token-simulation) - A dive into bpmn-js extensibility and the inner workings of [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation)
+* [Taking Templates to the limit](https://github.com/pinussilvestrus/ccs2022-resources) - A hands-on demo on how to create [Element Templates](https://docs.camunda.io/docs/components/modeler/desktop-modeler/element-templates/about-templates/) in your favorite IDE with [JSON Schema](https://github.com/camunda/element-templates-json-schema)
 
 ## Contribute
 
