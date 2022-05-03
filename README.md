@@ -108,7 +108,6 @@
 * [postit-js](https://github.com/pinussilvestrus/postit-js) - Create Post-it boards on a canvas editor
 * [Duckflow](https://duckflow.app) - Lightweight BPMN process designer application, based on bpmn.io
 * [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
-* [Cammand](https://github.com/StephenOTT/Cammand) - alternative UI for Camunda Platform. Check out for bpmn-js embedded in Blazor (C#).
 * [STORMBPMN](https://stormbpmn.com) - A web-based, collaborative modeling solution with BPMN validation, classic folder view for huge amount of diagrams 
 
 ## Talks
