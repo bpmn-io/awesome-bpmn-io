@@ -103,7 +103,8 @@
 ## Apps
 
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
-* [Camunda Modeler](https://github.com/camunda/camunda-modeler) - The Camunda Automation Platform and Camunda Cloud implementation tool and an integrated modeling solution for BPMN, DMN and CMMN based on bpmn.io
+* [Camunda Desktop Modeler](https://github.com/camunda/camunda-modeler) - Implementation tool for [Camunda](https://camunda.com/) and an integrated modeling solution for BPMN, DMN, and Forms.
+* [Camunda Web Modeler](https://modeler.camunda.io/) - Web-based collaborative modeling and implementation tool powering [Camunda SaaS](https://camunda.io)
 * [bpmn-io-vs-code](https://github.com/bpmn-io/vs-code-bpmn-io) - Display and edit BPMN diagrams in VS Code using bpmn.io tools
 * [postit-js](https://github.com/pinussilvestrus/postit-js) - Create Post-it boards on a canvas editor
 * [Duckflow](https://duckflow.app) - Lightweight BPMN process designer application, based on bpmn.io
