@@ -62,20 +62,18 @@
 
 #### [bpmn-js](https://github.com/bpmn-io/bpmn-js)
 
-* [bpmn-js-signavio-compat](https://github.com/bpmn-io/bpmn-js-signavio-compat) - Expand and collapse sub-processes exported by Signavio
+* [bpmn-js-color-picker](https://github.com/bpmn-io/bpmn-js-color-picker) - Color your BPMN elements via the context pad
 * [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - Simulate tokens running through your process
 * [bpmn-js-sketchy](https://github.com/bpmn-io/bpmn-js-sketchy) - A sketchy renderer for BPMN diagrams
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) - Add, edit, and persist comments on BPMN diagrams
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) - Model diagrams without the mouse
 * [bpmn-js-copy-paste-example](https://github.com/nikku/bpmn-js-copy-paste-example) - An example illustrating how to copy and paste BPMN diagram elements across browser tabs
-* [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
 * [bpmn-js-honkify](https://github.com/pinussilvestrus/bpmn-js-honkify) - Integrates honkify inspired duck sounds into bpmn-js
 * [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable 
 * [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) - An extension which disables modeling collapsed subprocess via replace menu
 * [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) - An extension that re-enables to collapse sub process via replace menu
-* [bpmn-js-color-picker](https://github.com/bpmn-io/bpmn-js-color-picker) - Color your BPMN elements via the context pad
-* [bpmn-js-token-simulation](https://github.com/bpmn-io/bpmn-js-token-simulation) - A BPMN 2.0 spec compliant token simulator and learning tool, integrated with [bpmn-js](https://github.com/bpmn-io/bpmn-js)
+* [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
 
 #### Misc
 
