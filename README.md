@@ -59,6 +59,7 @@
 * [diagram-js-origin](https://github.com/bpmn-io/diagram-js-origin) - Render a canvas origin cross
 * [diagram-js-minimap](https://github.com/bpmn-io/diagram-js-minimap) - Render a minimap of your diagram
 * [diagram-js-direct-editing](https://github.com/bpmn-io/diagram-js-direct-editing) - A direct editing box for diagram-js
+* [diagram-js-grid](https://github.com/bpmn-io/diagram-js-grid) - A visual grid for diagram-js
 
 #### [bpmn-js](https://github.com/bpmn-io/bpmn-js)
 
