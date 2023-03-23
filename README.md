@@ -73,6 +73,7 @@
 * [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable 
 * [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) - An extension which disables modeling collapsed subprocess via replace menu
 * [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) - An extension that re-enables to collapse sub process via replace menu
+* [bpmn-js-create-append-anything](https://github.com/bpmn-io/bpmn-js-create-append-anything) - Extends bpmn-js with a create and append anything modeling experience.
 * [camunda-transaction-boundaries](https://github.com/bpmn-io/camunda-transaction-boundaries) - Visualize transaction boundaries, applied by the [Camunda workflow engine](https://camunda.com/)
 
 #### Misc
