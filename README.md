@@ -82,9 +82,10 @@
 * [@bpmn-io/add-exporter](https://github.com/bpmn-io/add-exporter) - A helper to inject `exporter` meta-data into saved BPMN, CMMN and DMN diagrams
 * [@bpmn-io/align-to-origin](https://github.com/bpmn-io/align-to-origin) - Aligns your diagrams to the coordinate origin, manually triggered or on diagram save
 * [bpmn-js-differ](https://github.com/bpmn-io/bpmn-js-differ) - A semantic diff tool for BPMN diagrams
+* [bpmn-js-headless](https://github.com/bpmn-io/bpmn-js-headless) - Execute [bpmn-js](https://github.com/bpmn-io/bpmn-js) in headless environments
+* [bpmn-font](https://github.com/bpmn-io/bpmn-font) - A BPMN 2.0 icon font
 * [bpmn-to-image](https://github.com/bpmn-io/bpmn-to-image) - Transform BPMN diagrams to images from the command line
 * [bpmn-js-i18n](https://github.com/bpmn-io/bpmn-js-i18n) - Internationalization resources for bpmn-js
-* [bpmn-font](https://github.com/bpmn-io/bpmn-font) - A BPMN 2.0 icon font
 * [bpmnlint](https://github.com/bpmn-io/bpmnlint) - An extensible and configurable BPMN 2.0 diagram validator
 * [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Common lint rules for bpmn.io projects
 * [dmnlint](https://github.com/bpmn-io/dmnlint) - Validate DMN diagrams based on configurable lint rules
