@@ -8,7 +8,7 @@
   <br><br>
   Do you want to contribute? Read <a href="#contribute">our guidelines</a> and <a href="https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md">propose changes</a>.
   <br><br>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.staticaly.com/gh/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.statically.io/gh/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
 
   <br><br>
 </div>
