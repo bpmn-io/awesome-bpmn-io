@@ -1,12 +1,12 @@
 <div align="center">
   <br>
   <br>
-  <img width="474" height="102" src="https://github.com/bpmn-io/awesome-bpmn-io/raw/master/media/logo.svg?sanitize=true" alt="Awesome">
+  <img width="474" height="102" src="https://github.com/bpmn-io/awesome-bpmn-io/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
   <br>
   <br><br>
   A curated list of <a href="https://bpmn.io">bpmn.io</a> related projects and resources. Created in the spirit of <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   <br><br>
-  Do you want to contribute? Read <a href="#contribute">our guidelines</a> and <a href="https://github.com/bpmn-io/awesome-bpmn-io/edit/master/README.md">propose changes</a>.
+  Do you want to contribute? Read <a href="#contribute">our guidelines</a> and <a href="https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md">propose changes</a>.
   <br><br>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.staticaly.com/gh/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
 
