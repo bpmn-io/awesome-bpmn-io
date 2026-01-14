@@ -69,7 +69,7 @@
 * [bpmn-js-nyan](https://github.com/bpmn-io/bpmn-js-nyan) - An extension that adds custom resize rules, theming and colors
 * [bpmn-js-embedded-comments](https://github.com/bpmn-io/bpmn-js-embedded-comments) - Add, edit, and persist comments on BPMN diagrams
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) - Model diagrams without the mouse
-* [bpmn-js-copy-paste-example](https://github.com/nikku/bpmn-js-copy-paste-example) - An example illustrating how to copy and paste BPMN diagram elements across browser tabs
+* [bpmn-js-native-copy-paste](https://github.com/nikku/bpmn-js-native-copy-paste) - Copy and paste across [bpmn-js](https://github.com/bpmn-io/bpmn-js) instances, browser tabs and applications - using the system clipboard
 * [bpmn-js-honkify](https://github.com/pinussilvestrus/bpmn-js-honkify) - Integrates honkify inspired duck sounds into bpmn-js
 * [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable 
 * [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) - An extension which disables modeling collapsed subprocess via replace menu
