@@ -85,6 +85,7 @@
 * [bpmn-js-headless](https://github.com/bpmn-io/bpmn-js-headless) - Execute [bpmn-js](https://github.com/bpmn-io/bpmn-js) in headless environments
 * [bpmn-font](https://github.com/bpmn-io/bpmn-font) - A BPMN 2.0 icon font
 * [bpmn-to-image](https://github.com/bpmn-io/bpmn-to-image) - Transform BPMN diagrams to images from the command line
+* [bpmn-to-visio](https://github.com/Mgabr90/bpmn-to-visio) - Convert BPMN 2.0 diagrams to Microsoft Visio (.vsdx) files, preserving layout from bpmn.io
 * [bpmn-js-i18n](https://github.com/bpmn-io/bpmn-js-i18n) - Internationalization resources for bpmn-js
 * [bpmnlint](https://github.com/bpmn-io/bpmnlint) - An extensible and configurable BPMN 2.0 diagram validator
 * [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Common lint rules for bpmn.io projects
