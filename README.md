@@ -117,7 +117,7 @@
 * [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
 * [STORMBPMN](https://stormbpmn.com) - A web-based, collaborative modeling solution with BPMN validation, classic folder view for huge amount of diagrams 
 * [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
-* [bpmn-modeler](https://github.com/Miragon/bpmn-modeler) - BPMN and DMN modeler for VS Code with support for Camunda 7, Camunda 8, Operaton, and CIB seven.
+* [bpmn-modeler](https://github.com/Miragon/bpmn-modeler) - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
 
 ## Talks
 
