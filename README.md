@@ -91,6 +91,7 @@
 * [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Common lint rules for bpmn.io projects
 * [dmnlint](https://github.com/bpmn-io/dmnlint) - Validate DMN diagrams based on configurable lint rules
 * [dmn-migrate](https://github.com/bpmn-io/dmn-migrate) - Migrate your DMN diagrams to the latest DMN version
+* [dmn-js-simulation](https://github.com/emaarco/dmn-simulation) - Simulate DMN decision tables and DRDs inside a [dmn-js](https://github.com/bpmn-io/dmn-js) modeler
 
 
 ## Integrations
