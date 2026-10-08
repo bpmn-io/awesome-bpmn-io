@@ -106,7 +106,7 @@
 * [jupyterlab-bpmn](https://pypi.org/project/jupyterlab-bpmn/) - Render BPMN 2.0 diagrams in [JupyterLab](https://jupyter.org/)
 * [jupyterlab-dmn](https://pypi.org/project/jupyterlab-dmn/) - Render DMN diagrams in [JupyterLab](https://jupyter.org/)
 * [BPMN.io for ECA](https://www.drupal.org/project/bpmn_io) - Integrate BPMN.io to create, review and maintain ECA models in [Drupal](https://www.drupal.org)
-* [slidev-addon-diagram-js](https://github.com/emaarco/slidev-addon-diagram-js) - Display and edit BPMN 2.0, DMN and other diagram-js based models in [Slidev](https://sli.dev) presentations
+* [slidev-addon-diagram-js](https://github.com/emaarco/slidev-addon-diagram-js) - Display and edit BPMN 2.0, DMN and other diagram-js-based models in [Slidev](https://sli.dev) presentations
 
 
 ## Apps
