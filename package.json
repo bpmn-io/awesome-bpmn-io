@@ -1,0 +1,43 @@
+{
+  "name": "awesome-bpmn-io",
+  "version": "0.0.0",
+  "description": "Awesome list of bpmn.io related projects",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "all": "npm test",
+    "test": "npm run format -- -f",
+    "format": "remark . -qo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpmn-io/awesome-bpmn-io.git"
+  },
+  "author": "bpmn.io <https://github.com/bpmn-io>",
+  "remarkConfig": {
+    "settings": {
+      "listItemIndent": "one"
+    },
+    "plugins": [
+      "preset-bpmn-io",
+      [
+        "lint-no-html",
+        false
+      ],
+      [
+        "lint-first-heading-level",
+        false
+      ],
+      [
+        "remark-lint-list-item-indent",
+        "one"
+      ]
+    ]
+  },
+  "devDependencies": {
+    "remark-preset-bpmn-io": "^0.4.0"
+  },
+  "dependencies": {
+    "remark-cli": "^12.0.1"
+  }
+}
