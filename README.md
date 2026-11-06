@@ -10,7 +10,8 @@
   <br><br>
   <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.statically.io/gh/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" /></a>
 
-  <br><br>
+<br><br>
+
 </div>
 
 ## Contents
@@ -21,7 +22,8 @@
 * [Integrations](#integrations)
 * [Apps](#apps)
 * [Talks](#talks)
-
+* [Contribute](#contribute)
+* [License](#license)
 
 ## Learning Resources
 
@@ -31,7 +33,6 @@
 * [bpmn-js walkthrough](https://bpmn.io/toolkit/bpmn-js/walkthrough/) - An overview over bpmn-js, usage scenarios and its underlying architecture
 * [bpmn.io demo](https://demo.bpmn.io/) - A getting started playground into the bpmn-io toolkit
 * [bpmn.io community forum](https://forum.bpmn.io/) - A friendly place to ask about all things related to our project
-
 
 ## Libraries
 
@@ -71,7 +72,7 @@
 * [bpmn-js-cli](https://github.com/bpmn-io/bpmn-js-cli) - Model diagrams without the mouse
 * [bpmn-js-native-copy-paste](https://github.com/nikku/bpmn-js-native-copy-paste) - Copy and paste across [bpmn-js](https://github.com/bpmn-io/bpmn-js) instances, browser tabs and applications - using the system clipboard
 * [bpmn-js-honkify](https://github.com/pinussilvestrus/bpmn-js-honkify) - Integrates honkify inspired duck sounds into bpmn-js
-* [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable 
+* [bpmn-js-task-resize](https://github.com/ElCondor1969/bpmn-js-task-resize) - An extension to allow tasks being resizable
 * [bpmn-js-disable-collapsed-subprocess](https://github.com/bpmn-io/bpmn-js-disable-collapsed-subprocess) - An extension which disables modeling collapsed subprocess via replace menu
 * [bpmn-js-collapse-subprocess](https://github.com/bpmn-io/bpmn-js-collapse-subprocess) - An extension that re-enables to collapse sub process via replace menu
 * [bpmn-js-create-append-anything](https://github.com/bpmn-io/bpmn-js-create-append-anything) - Extends bpmn-js with a create and append anything modeling experience.
@@ -96,7 +97,6 @@
 * [bpmnlint](https://github.com/bpmn-io/bpmnlint) - An extensible and configurable BPMN 2.0 diagram validator
 * [eslint-plugin-bpmn-io](https://github.com/bpmn-io/eslint-plugin-bpmn-io) - Common lint rules for bpmn.io projects
 
-
 ## Integrations
 
 * [react-bpmn](https://github.com/bpmn-io/react-bpmn) - Render BPMN 2.0 diagrams in a [React](https://reactjs.org/) application
@@ -108,7 +108,6 @@
 * [BPMN.io for ECA](https://www.drupal.org/project/bpmn_io) - Integrate BPMN.io to create, review and maintain ECA models in [Drupal](https://www.drupal.org)
 * [slidev-addon-diagram-js](https://github.com/emaarco/slidev-addon-diagram-js) - Display and edit BPMN 2.0, DMN and other diagram-js-based models in [Slidev](https://sli.dev) presentations
 
-
 ## Apps
 
 * [Cawemo](https://cawemo.com/) - A web-based, collaborative modeling solution that uses bpmn-js for process modeling
@@ -118,7 +117,7 @@
 * [postit-js](https://github.com/pinussilvestrus/postit-js) - Create Post-it boards on a canvas editor
 * [Duckflow](https://duckflow.app) - Lightweight BPMN process designer application, based on bpmn.io
 * [bpmn-diff-bitbucket-plugin](https://github.com/domclick/bpmn-diff-bitbucket-plugin) - Bitbucket Server plugin for BPMN file versions visual comparison during pull-requests
-* [STORMBPMN](https://stormbpmn.com) - A web-based, collaborative modeling solution with BPMN validation, classic folder view for huge amount of diagrams 
+* [STORMBPMN](https://stormbpmn.com) - A web-based, collaborative modeling solution with BPMN validation, classic folder view for huge amount of diagrams
 * [Obsidian BPMN Plugin](https://github.com/joleaf/obsidian-bpmn-plugin) - A BPMN Viewer / Editor based on bpmn-js for [Obsidian](https://obsidian.md/)
 * [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
 * [bpmn-surf](https://github.com/kaoalllex/bpmn-surf) - Browser extension for Chrome and Firefox that shows visual BPMN and DMN diffs in GitLab merge requests and GitHub pull requests
@@ -134,7 +133,6 @@
 Would you like to contribute to this list? [Propose your addition](https://github.com/bpmn-io/awesome-bpmn-io/edit/main/README.md).
 
 This awesome list provides projects and resources that heavily feature the [bpmn.io](https://bpmn.io) project. We do not accept contributions where using our libraries is merely a footnote.
-
 
 ## License
 
