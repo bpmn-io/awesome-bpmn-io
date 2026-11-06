@@ -5,8 +5,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "all": "npm test",
-    "test": "npm run format -- -f",
+    "all": "npm run lint",
+    "lint": "npm run format -- -f",
     "format": "remark . -qo"
   },
   "repository": {
