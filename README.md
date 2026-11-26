@@ -122,6 +122,7 @@
 * [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) - BPMN and DMN modeler shipping as a VS Code extension and standalone desktop app; supports Camunda 7, Camunda 8, Operaton, and CIB seven.
 * [bpmn-surf](https://github.com/kaoalllex/bpmn-surf) - Browser extension for Chrome and Firefox that shows visual BPMN and DMN diffs in GitLab merge requests and GitHub pull requests
 * [Diagit](https://github.com/Miragon/diagit) - Browser extension for Chrome, Firefox and Edge that renders BPMN and DMN diagrams with bpmn-js and dmn-js on GitHub and GitLab, and shows BPMN changes as a visual before/after diff in pull and merge requests
+* [BPMN-Pilot](https://github.com/Leylines-Prism/bpmn-pilot) - Browser BPMN editor built on bpmn-js, with a built-in AI assistant and an MCP server so a chat and external agents draw on the same diagram
 
 ## Talks
 
